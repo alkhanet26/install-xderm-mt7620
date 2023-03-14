@@ -12,3 +12,9 @@ the openwrt will reboot
 and login to your router again
 
 check menu services -> xderm
+
+
+# Credit To
+
+Ryan Fauzi (Xderm Developer)
+Portalssh (some Dependencies)
